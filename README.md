@@ -6,7 +6,7 @@
 # Requirements
 <li><b>keras 2.6.0</b></li>
 <li><b>tensorflow 2.6.0</b></li>
-<li><b>python 3.7</b></li>
+<li><b>python 3.9.5(but less is possible)</b></li>
 
 # Running
 <p>As a result, the program displays the accuracy with which the network recognized the test images.</p>
